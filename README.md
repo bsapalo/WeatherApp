@@ -1,5 +1,5 @@
 # WeatherApp
-CSCI 201 Student Repository, Name: Brandon Sapalo, USC ID: 2419050139, Email: sapalo@usc.edu
+CSCI 201 Student Repository, Name: Brandon Sapalo, Email: sapalo@usc.edu
 
 Please download the .zip file & start the project from index.jsp (CSS looks best in Google Chrome). WeatherApp implements a GoogleMaps API to give you the weather at any location in the world and an OpenWeather API to provide current weather data. WeatherApp was developed using HTML, JavaScript, CSS for the front-end and Java for the back-end. There is a SQL database which stores registered user information.
 
